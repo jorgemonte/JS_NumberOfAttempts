@@ -1,0 +1,19 @@
+body{
+  background-color:#191919;
+}
+
+.container{
+  background-color:whitesmoke;
+  width:90%;
+  margin:0 auto;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.paper{
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+}
